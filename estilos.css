@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: mediumblue;
+    font-size: 55px;
+}
+
+p{
+    text-align: center;
+    color: mediumblue;
+    font-size: 25px;
+}
